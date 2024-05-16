@@ -10,7 +10,7 @@
       <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
       <category>Activision Blizzard</category>
       <category>Microsoft</category>
-      <enclosure url="/images/ATVI-ELSEWHERE-STUDIO-TOUT.png" type="image/png"/>
+      <enclosure url="https://josealejandroo.github.io/Ejercicio-RSS/images/ATVI-ELSEWHERE-STUDIO-TOUT.png" type="image/png"/>
     </item>
     <item>
       <title>Microsoft desvela un nuevo mando accesible para Xbox llamado Proteus</title>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
       <category>Microsoft</category>
       <category>Xbox</category>
-      <enclosure url="/images/Mando-Proteus.png" type="image/png"/>
+      <enclosure url="https://josealejandroo.github.io/Ejercicio-RSS/images/Mando-Proteus.png" type="image/png"/>
     </item>
     <item>
       <title>Honor of Kings, el MOBA estrella de Tencent, se publicará a nivel global en junio</title>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
       <category>Tencent</category>
       <category>MOBA C</category>
-      <enclosure url="/images/honorofkings.png" type="image/png"/>
+      <enclosure url="https://josealejandroo.github.io/Ejercicio-RSS/images/honorofkings.png" type="image/png"/>
     </item>
   </channel>
 </rss>

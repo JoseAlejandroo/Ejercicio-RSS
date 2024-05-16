@@ -10,7 +10,7 @@
       <pubDate>Wed, 15 May 2024 12:00:00 GMT</pubDate>
       <category>Indie</category>
       <category>Roguelike</category>
-      <enclosure url="/images/mulletmadjack.png" type="image/png"/>
+      <enclosure url="https://josealejandroo.github.io/Ejercicio-RSS/images/mulletmadjack.png" type="image/png"/>
     </item>
     <item>
       <title>Análisis de Crow Country - Un survival horror que marida lo tenebroso y lo adorable</title>
@@ -18,7 +18,7 @@
       <pubDate>Wed, 8 May 2024 12:00:00 GMT</pubDate>
       <category>Indie</category>
       <category>Terror</category>
-      <enclosure url="/images/crowcountry.png" type="image/png"/>
+      <enclosure url="https://josealejandroo.github.io/Ejercicio-RSS/images/crowcountry.png" type="image/png"/>
     </item>
     <item>
       <title>Análisis de Indika - Una surrealista aventura que tenía más recorrido</title>
@@ -26,7 +26,7 @@
       <pubDate>Thu, 2 May 2024 12:00:00 GMT</pubDate>
       <category>Misterio</category>
       <category>Rompecabezas</category>
-      <enclosure url="/images/Indika.png" type="image/png"/>
+      <enclosure url="https://josealejandroo.github.io/Ejercicio-RSS/images/Indika.png" type="image/png"/>
     </item>
   </channel>
 </rss>
