@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Ofertas de la Semana</title>
+    <link>rss/analisis.xml</link>
+    <description>Nuestros últimos reseñas de videojuegos</description>
+    <item>
+      <title>Análisis de Mullet Madjack - Un extraordinario FPS de espíritu arcade al que le falta un pequeño hervor</title>
+      <description>Todavía tienes el estúpido hábito de rodearte de basura humana.</description>
+      <pubDate>Wed, 15 May 2024 12:00:00 GMT</pubDate>
+      <category>Indie</category>
+      <category>Roguelike</category>
+      <enclosure url="/images/mulletmadjack.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Análisis de Crow Country - Un survival horror que marida lo tenebroso y lo adorable</title>
+      <description>Ay, qué bien tan mal.</description>
+      <pubDate>Wed, 8 May 2024 12:00:00 GMT</pubDate>
+      <category>Indie</category>
+      <category>Terror</category>
+      <enclosure url="/images/crowcountry.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Análisis de Indika - Una surrealista aventura que tenía más recorrido</title>
+      <description>Un rifle en la pared.</description>
+      <pubDate>Thu, 2 May 2024 12:00:00 GMT</pubDate>
+      <category>Misterio</category>
+      <category>Rompecabezas</category>
+      <enclosure url="/images/Indika.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>

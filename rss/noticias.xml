@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias</title>
+    <link>rss/noticias.xml</link>
+    <description>Últimas noticias sobre videojuegos</description>
+    <item>
+      <title>Activision abre un nuevo estudio en Polonia para trabajar en una nueva IP</title>
+      <description>Narrativa y triple A.</description>
+      <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
+      <category>Activision Blizzard</category>
+      <category>Microsoft</category>
+      <enclosure url="/images/ATVI-ELSEWHERE-STUDIO-TOUT.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Microsoft desvela un nuevo mando accesible para Xbox llamado Proteus</title>
+      <description>Desarrollado junto a ByoWave.</description>
+      <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
+      <category>Microsoft</category>
+      <category>Xbox</category>
+      <enclosure url="/images/Mando-Proteus.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Honor of Kings, el MOBA estrella de Tencent, se publicará a nivel global en junio</title>
+      <description>Comienza la campaña de prerregistros.</description>
+      <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
+      <category>Tencent</category>
+      <category>MOBA C</category>
+      <enclosure url="/images/honorofkings.png" type="image/png"/>
+    </item>
+  </channel>
+</rss>
