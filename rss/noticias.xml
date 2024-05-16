@@ -6,6 +6,7 @@
     <description>Últimas noticias sobre videojuegos</description>
     <item>
       <title>Activision abre un nuevo estudio en Polonia para trabajar en una nueva IP</title>
+      <link>https://www.eurogamer.es/activision-abre-un-nuevo-estudio-en-polonia-para-trabajar-en-una-nueva-ip</link>
       <description>Narrativa y triple A.</description>
       <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
       <category>Activision Blizzard</category>
@@ -14,18 +15,20 @@
     </item>
     <item>
       <title>Microsoft desvela un nuevo mando accesible para Xbox llamado Proteus</title>
+      <link>https://www.eurogamer.es/microsoft-desvela-un-nuevo-mando-accesible-para-xbox-llamado-proteus</link>
       <description>Desarrollado junto a ByoWave.</description>
-      <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
+      <pubDate>Thu, 16 May 2024 11:00:00 GMT</pubDate>
       <category>Microsoft</category>
       <category>Xbox</category>
       <enclosure url="https://josealejandroo.github.io/Ejercicio-RSS/images/Mando-Proteus.png" type="image/png"/>
     </item>
     <item>
       <title>Honor of Kings, el MOBA estrella de Tencent, se publicará a nivel global en junio</title>
+      <link>https://www.eurogamer.es/honor-of-kings-el-moba-estrella-de-tencent-se-publicara-a-nivel-global-en-junio</link>
       <description>Comienza la campaña de prerregistros.</description>
-      <pubDate>Thu, 16 May 2024 12:00:00 GMT</pubDate>
+      <pubDate>Thu, 16 May 2024 10:00:00 GMT</pubDate>
       <category>Tencent</category>
-      <category>MOBA C</category>
+      <category>MOBA</category>
       <enclosure url="https://josealejandroo.github.io/Ejercicio-RSS/images/honorofkings.png" type="image/png"/>
     </item>
   </channel>
